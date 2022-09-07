@@ -1,10 +1,10 @@
-subscription_id = "e22a5f56-e62d-4070-ba82-9b474f381f17"
+subscription_id = "<___________________>"
 
-client_id = "5ae16337-6757-481f-bc4f-8282d194841a"
+client_id = "<______________________>"
 
-client_secret = "ilh8Q~peTGa2DqbkFAlVbM.qqlraOmTrmFt.mb7A"
+client_secret = "<________________>"
 
-tenant_id = "ad8f13ea-0ea4-4485-b6ee-d9723e74edff"
+tenant_id = "<___________>"
 
 azurerm_resource_group_name = "kubctl_rg"
 location                    = "East Us"
